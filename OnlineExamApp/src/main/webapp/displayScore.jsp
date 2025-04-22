@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 <style>
 h1{
-color: red
+color: blue
 }
 </style>
 </head>
