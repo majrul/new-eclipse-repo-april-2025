@@ -5,6 +5,11 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<style>
+h1{
+color: red
+}
+</style>
 </head>
 <body>
 <h1>Congratulations, you have scored <%= session.getAttribute("score") %> marks</h1>
